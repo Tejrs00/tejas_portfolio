@@ -1,2 +1,2 @@
-# Tejas_portfolio
+# Tejas_portfoli
 ABOUT ME
