@@ -1,2 +1,2 @@
-# Vaneesh_portfoli
+# SATHVIK-PORTFOLI
 ABOUT ME
