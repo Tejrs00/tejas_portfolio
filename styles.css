@@ -47,10 +47,10 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background: #1e293b;
+    background: #1e313b;
     color: #fff;
     padding: 1rem;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
     position: sticky;
     top: 0;
     z-index: 1000;
@@ -244,7 +244,7 @@ button[type="submit"] {
 }
 
 button[type="submit"]:hover {
-    background: #ff4a3c;
+    background: #ff6a3c;
     transform: scale(1.05);
 }
 
